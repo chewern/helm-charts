@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jci:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-16T09:49:04.710591445Z"
+    description: A Helm chart for Kubernetes
+    digest: a275d6bf97af427c03d872ef76c83f5ddab94803c30e4718cfbcc627408f6b2a
+    name: jci
+    type: application
+    urls:
+    - https://brainupgrade-in.github.io/helm-charts/jci/jci-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-16T09:49:04.709437324Z"
